@@ -78,7 +78,7 @@ python example.py
 
 ## 📚 文档
 
-详细文档请访问 [项目文档](your-docs-link)
+详细文档请访问 [项目文档](docs/en/solutions/index.md)
 
 ## 🤝 贡献指南
 
